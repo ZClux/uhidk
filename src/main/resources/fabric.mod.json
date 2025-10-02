@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "id": "coffee",
+  "id": "Reaper",
   "version": "${version}",
-  "name": "Coffee client",
+  "name": "Reaper client",
   "description": "Very based utility mod",
   "authors": [
-    "0x150"
+    "ay6d"
   ],
   "contributors": [
     "Authom",
